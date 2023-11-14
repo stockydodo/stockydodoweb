@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="18px" viewBox="0 0 13 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A to Z</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Learn-5" transform="translate(-161, -705.0026)" fill="#4E4E4E" fill-rule="nonzero">
+            <g id="Group-23" transform="translate(0, 630.0026)">
+                <g id="Group-12" transform="translate(27, 23)">
+                    <g id="Group-13" transform="translate(0, 52)">
+                        <g id="Group-16" transform="translate(23, 0)">
+                            <g id="A-to-Z" transform="translate(111, 0)">
+                                <text id="A-Z" font-family="Montserrat-Medium, Montserrat" font-size="7" font-weight="400" line-spacing="9">
+                                    <tspan x="6.438" y="7">A</tspan>
+                                    <tspan x="6.7005" y="16">Z</tspan>
+                                </text>
+                                <path d="M4.56896552,12.17119 L2.84482759,14.5093946 L2.84482759,2 L2.15517241,2 L2.15517241,14.5093946 L0.431034483,12.17119 L0,12.8726514 L2.24137931,15.9123173 C2.4137931,16.0292276 2.5862069,16.0292276 2.75862069,15.9123173 L5,12.8726514 L4.56896552,12.17119 Z" id="Path_00000113325765675955074690000015012650817494824589_"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

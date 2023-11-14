@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="24px" viewBox="0 0 28 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>XP Points</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="11C-Refer-&amp;-earn" transform="translate(-15, -784)">
+            <g id="More-Ways-toEarn" transform="translate(0, 739)">
+                <g id="XP-Points" transform="translate(15, 45)">
+                    <rect id="Rectangle" fill="#DBBFFF" x="0" y="0" width="28" height="24" rx="12"></rect>
+                    <text id="XP" font-family="Montserrat-Bold, Montserrat" font-size="10.8" font-weight="bold" fill="#1B1F2B">
+                        <tspan x="6.1916" y="18">XP</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

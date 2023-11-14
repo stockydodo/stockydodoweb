@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1b1f2b;
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 10.8px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        fill: #dbbfff;
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Page-1">
+      <g id="_11C-Refer-_-earn" data-name="11C-Refer-&amp;amp;-earn">
+        <g id="More-Ways-toEarn">
+          <g id="Group-4">
+            <path id="Rectangle" class="cls-5" d="m12,0h4c6.63,0,12,5.37,12,12h0c0,6.63-5.37,12-12,12h-4C5.37,24,0,18.63,0,12h0C0,5.37,5.37,0,12,0Z"/>
+            <g id="XP" class="cls-2">
+              <text class="cls-1" transform="translate(6.22 16.13)"><tspan class="cls-4" x="0" y="0">X</tspan><tspan class="cls-3" x="7.47" y="0">P</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
